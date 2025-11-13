@@ -4,7 +4,7 @@
 
 1. Git Clone Repository
 
-In order to run code the myenv is needed to 
+In order to run this code the myenv is needed
 
 2. python3 -m venv myenv
 
